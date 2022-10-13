@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TesingApplication</string>
+    <string name="RadioButton1">RadioButton1</string>
+    <string name="RadioButton2">RadioButton2</string>
+    <string name="textview">I am an edit text</string>
+    <string name="Switch">I am an switch</string>
+    <string name="Button">I am a button</string>
+    <string name="EditText">I am an edit text</string>
+    <string name="RadioButton3">RadioButton3</string>
+</resources>
