@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'algonquin.cst2335.tesingapplication'
+    namespace 'algonquin.cst2335'
     compileSdk 32
 
     buildFeatures{
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "algonquin.cst2335.tesingapplication"
+        applicationId "algonquin.cst2335"
         minSdk 22
         targetSdk 32
         versionCode 1
